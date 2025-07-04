@@ -83,6 +83,11 @@ A detailed explanation of the system design, components, circuit, and working is
 👉 [Click here to read the report](report.pdf)
 
 
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
