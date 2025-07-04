@@ -52,17 +52,19 @@ THEFT DETECTED!
 
 ## 🖼️ Images
 
+## 🖼️ Images
+
 ### 🔌 Full Hardware Setup
-![Setup Photo](WhatsApp%20Image%202025-07-04%20at%2016.08.05_cc44.jpg)
+![Setup Photo](setup.jpg)
 
 ### 💡 Legal Load Activated
-![Legal Load](WhatsApp%20Image%202025-07-04%20at%2016.10.25_ddf2.jpg)
+![Legal Load](legal_load.jpg)
 
 ### 🚨 Theft Detected on LCD
-![Theft Detected](WhatsApp%20Image%202025-07-04%20at%2016.14.07_ef9a.jpg)
+![Theft Detected](lcd_theft.jpg)
 
 ### 📧 ESP8266 Email Alert Triggered
-![Email Screenshot](WhatsApp%20Image%202025-07-04%20at%2017.22.59_f3e2.jpg)
+![Email Screenshot](email_alert.jpg)
 
 ## 🚀 Future Scope
 
