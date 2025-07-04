@@ -78,7 +78,11 @@ THEFT DETECTED!
 
 ## 📄 Report
 
-Read the full project report here: [`report.pdf`](./report.pdf)
+A detailed explanation of the system design, components, circuit, and working is provided in the full mini project report:
+
+👉 [Click here to read the report](report.pdf)
+
+
 
 ---
 
