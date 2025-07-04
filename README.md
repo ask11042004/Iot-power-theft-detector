@@ -57,13 +57,13 @@ THEFT DETECTED!
 ### 🔌 Full Hardware Setup
 ![Setup Photo](setup.jpg)
 
-### 💡 Legal Load Activated
+### 📧 ESP8266 Email Alert Triggered
 ![Legal Load](legal_load.jpg)
 
-### 🚨 Theft Detected on LCD
+### 🚨 Circuit Diagram
 ![Theft Detected](lcd_theft.jpg)
 
-### 📧 ESP8266 Email Alert Triggered
+### 📧 Block Diagram
 ![Email Screenshot](email_alert.jpg)
 
 ## 🚀 Future Scope
