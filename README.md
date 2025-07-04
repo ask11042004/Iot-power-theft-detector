@@ -52,19 +52,20 @@ THEFT DETECTED!
 
 ## 🖼️ Images
 
-## 🖼️ Images
+## 📷 Demo Snapshots
 
 ### 🔌 Full Hardware Setup
-![Setup Photo](setup.jpg)
+<img src="images/setup.jpg" alt="Hardware Setup" width="600"/>
 
 ### 📧 ESP8266 Email Alert Triggered
-![Legal Load](legal_load.jpg)
+<img src="images/email_alert.jpg" alt="ESP8266 Email Alert" width="600"/>
 
-### 🚨 Circuit Diagram
-![Theft Detected](lcd_theft.jpg)
+### 🧱 Block Diagram
+<img src="images/block_diagram.jpg" alt="Block Diagram" width="600"/>
 
-### 📧 Block Diagram
-![Email Screenshot](email_alert.jpg)
+### ⚡ Circuit Diagram
+<img src="images/circuit_diagram.jpg" alt="Circuit Diagram" width="600"/>
+
 
 ## 🚀 Future Scope
 
